@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently a 3rd year Computer Science student.
+
+#### My projects are
+
+- [Virtual Trading Terminal](https://github.com/arshkhatwani/virtual-trading-terminal)
+- [Codepen Clone](https://github.com/arshkhatwani/codepen-clone)
+- [WhatsApp reminder bot](https://github.com/arshkhatwani/whatsapp-reminder)
+
+
 <!--
 **arshkhatwani/arshkhatwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

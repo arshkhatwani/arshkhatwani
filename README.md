@@ -1,6 +1,9 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/72190185/169946222-4130e411-9988-43c9-844b-91ece1bb91b5.png)
 
+- 🔭 I’m currently Software Engineer Intern at **OpsFuse Technologies Pvt. Ltd.**
 - 🌱 I’m currently a 3rd year Computer Science student.
+- 😄 Pronouns: **he/him**
+- 👯 I’m looking to collaborate on **projects**
 
 #### My projects are
 

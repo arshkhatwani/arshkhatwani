@@ -4,6 +4,7 @@
 - 🌱 I’m currently a 3rd year Computer Science student.
 - 😄 Pronouns: **he/him**
 - 👯 I’m looking to collaborate on **projects**
+- 📫 How to reach me **arsh.khatwani@gmail.com**
 
 
 

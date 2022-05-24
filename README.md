@@ -21,6 +21,7 @@
 - [Codepen Clone](https://github.com/arshkhatwani/codepen-clone)
 - [WhatsApp reminder bot](https://github.com/arshkhatwani/whatsapp-reminder)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshkhatwani&show_icons=true&locale=en&layout=compact" alt="arshkhatwani" /></p>
 
 <!--
 **arshkhatwani/arshkhatwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

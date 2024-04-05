@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/72190185/169946222-4130e411-9988-43c9-844b-91ece1bb91b5.png)
 
-- 🔭 I’m currently Software Engineer Intern at **GroundTruth**
-- 🌱 I’m currently a final year Computer Science student
+- 🔭 I’m currently Associate Software Engineer at **GroundTruth**
+- 🌱 I’m a B.Tech Computer Science graduate
 - 🌱 I’m currently practicing **Data Structures and Algorithms**
 - 😄 Pronouns: **he/him**
 - 👯 I’m looking to collaborate on **projects**
